@@ -18,11 +18,23 @@ Start a Git repository for your lab folder and save your work with commits.
 - `style.css`
 
 ## Output
-**index.html**
+**index.html (page output)**
 
 ![index.html](images/index.png)
 
-> Terminal screenshots (git commands) add karne hain: `images/terminal-task1.png`, `terminal-task2.png`, `terminal-task3.png`.
+## Terminal Screenshots
+
+**Task 1: git init and git config**
+
+![Task 1](images/terminal-task1.png)
+
+**Task 2: git status, git add, git commit**
+
+![Task 2](images/terminal-task2.png)
+
+**Task 3: second commit and git log --oneline**
+
+![Task 3](images/terminal-task3.png)
 
 
 ## Commands used
