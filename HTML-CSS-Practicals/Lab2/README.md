@@ -18,11 +18,23 @@ Send commits to a second repository on your computer and make a copy with clone.
 - `style.css`
 
 ## Output
-**index.html**
+**index.html (page output)**
 
 ![index.html](images/index.png)
 
-> Terminal screenshots (git commands) add karne hain: `images/terminal-task1.png`, `terminal-task2.png`, `terminal-task3.png`.
+## Terminal Screenshots
+
+**Task 1: git init --bare, git remote add, git remote -v**
+
+![Task 1](images/terminal-task1.png)
+
+**Task 2: git push origin main**
+
+![Task 2](images/terminal-task2.png)
+
+**Task 3: git clone and git log --oneline in html-copy**
+
+![Task 3](images/terminal-task3.png)
 
 
 ## Commands used
